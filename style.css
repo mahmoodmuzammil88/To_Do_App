@@ -96,6 +96,8 @@ body{
   transition: all 0.30s ease-in-out;
 }
 
+
+
 .item:hover{
   box-shadow: 0 0 20px #E22865;
   border: 1px solid #E22865;
